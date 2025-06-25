@@ -1,0 +1,9 @@
+streamlit
+pandas
+python-dotenv
+langchain
+langchain-community
+chromadb
+faiss-cpu
+ollama-python
+requests
